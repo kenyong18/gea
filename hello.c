@@ -3,5 +3,5 @@
 int main()
 {
 
-	cout >>"Holle!";
+	cout >>"hello!";
 }
